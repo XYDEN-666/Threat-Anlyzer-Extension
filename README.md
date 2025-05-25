@@ -76,4 +76,4 @@ Feel free to open issues or submit pull requests.
 
 ## License
 
-(Optional: Add a license section if you choose to include a LICENSE file, e.g., MIT License)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
