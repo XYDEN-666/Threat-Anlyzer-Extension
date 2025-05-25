@@ -1,0 +1,15 @@
+{
+    "scan_sources": [
+        "local_files",
+        "clipboard",
+        "network_logs"
+    ],
+    "sensitive_data_types": [
+        "credit_card",
+        "social_security",
+        "api_keys",
+        "passwords"
+    ],
+    "ai_model_threshold": 0.7,
+    "log_path": "credential_leak_detector.log"
+}
